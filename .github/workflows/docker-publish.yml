@@ -14,8 +14,8 @@ on:
 
 env:
   IMAGE_NAME: azure-vote
-  CLUSTER_NAME: aks
-  CLUSTER_RESOURCE_GROUP: aks-demos
+  CLUSTER_NAME: TestAKSCluster
+  CLUSTER_RESOURCE_GROUP: DevOpsHack
   NAMESPACE: default
 
 jobs:
